@@ -1,2 +1,19 @@
 ﻿  main.cpp
-  Aida64.vcxproj -> C:\Users\Peter\Desktop\Aida64\Debug\Aida64.exe
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(111,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(112,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(113,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(114,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(115,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(116,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(117,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(118,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(119,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(120,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(121,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(122,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(123,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(124,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(125,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(126,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peter\Desktop\AIDA64-CLI\main.cpp(127,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Aida64.vcxproj -> C:\Users\Peter\Desktop\AIDA64-CLI\Debug\Aida64.exe
